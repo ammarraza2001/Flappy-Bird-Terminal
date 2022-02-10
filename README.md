@@ -1,1 +1,3 @@
-# Flappy-Bird-Terminal
+This project is a interactive playable version of the game flappy bird. In our implementation (built entirely in the main.cpp file), the game is run in the terminal as a text based graphical representation. When you run the main.cpp file, the game starts and you can press any key to start moving. Then you press the up key repeatedly to "jump" while the bird slowly falls due to gravity. Try not to run into the ground or the poles and then get as far as you can to get a high score! Scores will be saved into a csv file and the high score will be saved to a text file that is displayed at the start and end of the game.
+
+Developed by Ammar Josh and Nathan for CS128 Semester 1 Fall 2021.
